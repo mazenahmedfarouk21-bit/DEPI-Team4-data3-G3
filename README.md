@@ -9,6 +9,35 @@ All database queries, data transformations, and analytical views have been modul
 
 ---
 
+## 👥 Project Team
+
+* **[Mohanad Wahied Abd Elsalam]** - Data Cleaning & Preparation  & Primary Booking KPIs
+
+  GitHub (https://github.com/hondadodo)
+  LinkedIn (https://www.linkedin.com/in/mohanad-wahied/)
+
+* **[Salma]** - Temporal & Customer Segmentation Analysis
+  
+  GitHub ()
+  LinkedIn ()
+
+* **[Mazen]** - Customer Behavior & Segmentation
+
+  GitHub ()
+  LinkedIn ()
+
+* **[Huda]** - Room, Meal & Revenue Operations
+
+  GitHub ()
+  LinkedIn ()
+  
+* **[Ghada]** - Power BI & Dashboard Analysis
+  
+  GitHub ()
+  LinkedIn ()
+
+---
+
 ## 🛠️ Project Phases & SQL Workflow
 
 ```
