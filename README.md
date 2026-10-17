@@ -33,8 +33,8 @@ All database queries, data transformations, and analytical views have been modul
   
 * **[Ghada]** - Power BI & Dashboard Analysis
   
-  GitHub ()
-  LinkedIn ()
+  GitHub (https://github.com/ghadaibrahimzaki)
+  LinkedIn (https://www.linkedin.com/in/ghada-ibrahim-6b325b332/?isSelfProfile=true)
 
 ---
 
