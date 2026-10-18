@@ -41,13 +41,13 @@ All database queries, data transformations, and analytical views have been modul
 ## 🛠️ Project Phases & SQL Workflow
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                             PROJECT ARCHITECTURE                            │
-├─────────────┬─────────────┬─────────────┬─────────────────┬─────────────────┤
-│   PHASE 1   │   PHASE 2   │   PHASE 3   │     PHASE 4     │     PHASE 5     │
-│ Data Clean  │ Primary KPIs│ Temporal    │ Customer        │ Room, Meal &    │
-│ & Prepping  │ Summary     │ Analysis    │ Segmentation    │ Revenue Ops     │
-└─────────────┴─────────────┴─────────────┴─────────────────┴─────────────────┘
+┌───────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                   PROJECT ARCHITECTURE                                        │
+├─────────────┬─────────────┬─────────────┬─────────────────┬─────────────────┬─────────────────┤
+│   PHASE 1   │   PHASE 2   │   PHASE 3   │     PHASE 4     │     PHASE 5     │     PHASE 6     │
+│ Data Clean  │ Primary KPIs│ Temporal    │ Customer        │ Room, Meal &    │ Power BI Visuals│
+│ & Prepping  │ Summary     │ Analysis    │ Segmentation    │ Revenue Ops     │ Dashboards      │
+└─────────────┴─────────────┴─────────────┴─────────────────┴─────────────────┴─────────────────┘
 ```
 
 ---
