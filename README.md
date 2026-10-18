@@ -23,8 +23,8 @@ All database queries, data transformations, and analytical views have been modul
 
 * **[Mazen]** - Customer Behavior & Segmentation
 
-  GitHub ()
-  LinkedIn ()
+  GitHub (https://github.com/mazenahmedfarouk21-bit)
+  LinkedIn (https://www.linkedin.com/in/mazen-ahmed-087b65182/?isSelfProfile=true)
 
 * **[Huda]** - Room, Meal & Revenue Operations
 
