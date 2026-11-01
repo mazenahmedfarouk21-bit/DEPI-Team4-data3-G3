@@ -18,8 +18,8 @@ All database queries, data transformations, and analytical views have been modul
 
 * **[Salma]** - Temporal & Customer Segmentation Analysis
   
-  GitHub ()
-  LinkedIn ()
+  GitHub (https://github.com/hsalmadawoud)
+  LinkedIn (https://www.linkedin.com/in/salma-dawoud)
 
 * **[Mazen]** - Customer Behavior & Segmentation
 
